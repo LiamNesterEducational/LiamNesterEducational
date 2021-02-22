@@ -24,7 +24,8 @@ This Org serves as a platform to allow me to demonstrate the solutions and imple
 
 Check out some of the Educational Repos I have made...
 
-
+1) [Solution and Expansion of an Eigenvalue Problem](https://github.com/LiamNesterEducational/ExpansionOfAnEigenvalueProblem)
+2) [Creating an N-bit Data Aquisition (DAQ) System](https://github.com/LiamNesterEducational/CreatingAnNBitDataAqSystem)
 
 Stay tuned for more!
 
