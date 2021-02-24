@@ -15,7 +15,7 @@
 This Org serves as a platform to allow me to demonstrate the solutions and implementations of both simple and complex engineering problems. I have (and am always working on) several repos discussing:
 
 - Advanced mathematics
-- fluid and heat transfer
+- Fluids and heat transfer
 - Signal processing and simulation
 - Space propulsion
 - ....and more!
