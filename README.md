@@ -26,6 +26,7 @@ Check out some of the Educational Repos I have made...
 
 1) [Solution and Expansion of an Eigenvalue Problem](https://github.com/LiamNesterEducational/ExpansionOfAnEigenvalueProblem)
 2) [Creating an N-bit Data Aquisition (DAQ) System](https://github.com/LiamNesterEducational/CreatingAnNBitDataAqSystem)
+3) [The Collatz Conjecture](https://github.com/LiamNesterEducational/CollatzConjecture)
 
 Stay tuned for more!
 
